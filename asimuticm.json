@@ -27,13 +27,6 @@
               },
               "text": "John Doe"
             },
-            {
-              "type": "button",
-              "text": "Follow",
-              "style": {
-                "color": "#ff0000",
-                "background": "#000000"
-              }
             }
           ]
         }]
