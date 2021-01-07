@@ -15,7 +15,8 @@
               "type": "image",
               "url": "https://consmilano.asimut.net/custom/images/logo.png",
               "style": {
-                "width": "100"
+                "width": "398",
+                "background": "#00529B"
               }
             },
             {
