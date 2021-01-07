@@ -1,7 +1,7 @@
 {
   "$jason": {
     "head": {
-      "title": "Asimut ConsMilnao"
+      "title": "center aligned vertical layout"
     },
     "body": {
       "sections": [{
@@ -23,9 +23,18 @@
               "type": "label",
               "style": {
                 "color": "#000000",
-                "background": "#00529B"
+                "background": "#ff0000"
               },
+              "text": "John Doe"
             },
+            {
+              "type": "button",
+              "text": "Follow",
+              "style": {
+                "color": "#ff0000",
+                "background": "#000000"
+              }
+            }
           ]
         }]
       }]
