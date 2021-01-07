@@ -26,11 +26,12 @@
               "components": [
                 {
                   "type": "label",
-                  "text": "It's ALIVE!",
+                  "text": "Giulio mA sei un grande",
                   "style": {
                     "align": "center",
                     "font": "Courier-Bold",
-                    "size": "18"
+                    "size": "24",
+                    "color": "#3399ff"
                   }
                 },
                 {
